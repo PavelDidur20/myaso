@@ -25,8 +25,6 @@ DB_USERNAME=laravel
 DB_PASSWORD=secret
 
 4) запустить миграции
-Run migrations: Inside the app container, execute:
-
 php artisan migrate
 
 5) Запустить сидеры
