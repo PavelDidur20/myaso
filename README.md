@@ -13,10 +13,15 @@
 3) Настроить окружение: скопировать  src/.env.example в src/.env и обновить:
 
 DB_CONNECTION=pgsql
+
 DB_HOST=db
+
 DB_PORT=3306
+
 DB_DATABASE=laravel
+
 DB_USERNAME=laravel
+
 DB_PASSWORD=secret
 
 4) запустить миграции
