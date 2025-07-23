@@ -9,7 +9,7 @@
 Инструкция по запуску
 
 1) Клонировать репозиторий. 
-2) docker-compose up -d --build собрать и запустить (или docker build. затем docker-compose up -d)
+2) docker-compose up -d --build собрать и запустить (или docker build .  затем docker-compose up -d)
 3) Настроить окружение: скопировать  .env.example в .env и обновить:
 
 DB_CONNECTION=pgsql
