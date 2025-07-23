@@ -16,7 +16,7 @@ DB_CONNECTION=pgsql
 
 DB_HOST=db
 
-DB_PORT=3306
+DB_PORT=5432 
 
 DB_DATABASE=laravel
 
